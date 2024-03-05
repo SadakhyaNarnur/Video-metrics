@@ -17,3 +17,4 @@ AWS Athena: Athena is an interactive query service for S3 in which there is no n
 
 ## 5. Execute the python code in lambda-function.py where we use awswrangler a library that can access the files in s3. This way we create cleaned json to parquet file.
 
+<img width="620" alt="Screen Shot 2024-03-04 at 4 54 12 PM" src="https://github.com/SadakhyaNarnur/Video-metrics/assets/111921205/03c28645-16a0-44af-a467-c9678eab87f6">
