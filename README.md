@@ -20,3 +20,7 @@ AWS Athena: Athena is an interactive query service for S3 in which there is no n
 <img width="620" alt="Screen Shot 2024-03-04 at 4 54 12 PM" src="https://github.com/SadakhyaNarnur/Video-metrics/assets/111921205/03c28645-16a0-44af-a467-c9678eab87f6">
 
 ## 6. Once the data is cleaned and ready it is stored into the s3 bucket. This data is used to make visualization.
+
+<img width="1440" alt="Screen Shot 2024-03-04 at 6 37 19 PM" src="https://github.com/SadakhyaNarnur/Video-metrics/assets/111921205/04a454db-2eab-4a90-9f13-71dc22c59d35">
+
+<img width="1440" alt="Screen Shot 2024-03-04 at 6 38 01 PM" src="https://github.com/SadakhyaNarnur/Video-metrics/assets/111921205/9b340fcb-321f-4d05-9f28-89ed0715d8d0">
